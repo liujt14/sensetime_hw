@@ -1,2 +1,2 @@
-# sensetime_hw
-my ftp server
+# # FTP client and server for go
+# install
