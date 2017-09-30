@@ -7,9 +7,10 @@ go get github.com/liujt14/sensetime_hw
 build go resources:
 ```
 mkdir myclient&& mv myclient.go ./myclient
+mkdir myserver&& mv myserver.go ./myserver
 cd myclient
 go build
-cd ..
+cd ../myserver
 go build
 ```
 Open new terminal and run  built files separately 
