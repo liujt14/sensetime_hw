@@ -1,6 +1,8 @@
 # FTP client and server for go
 # install
+```
 go get github.com/liujt14/sensetime_hw
+```
 # Usage
 build go resources:
 ```
